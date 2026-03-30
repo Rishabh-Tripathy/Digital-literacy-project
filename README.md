@@ -2,6 +2,16 @@
 
 ---
 
+# 🎓 Student Digital Ambassador Portfolio
+[![Status: Complete](https://img.shields.io/badge/Status-Complete-success?style=flat-square)](https://github.com/your-username/your-repo)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Digital Literacy](https://img.shields.io/badge/Digital--Literacy-Awareness-blue?style=flat-square)](https://your-quiz-link)
+
+> **Empowering peers through Digital Literacy, Professionalism, and Security.**
+
+
+---
+
 ### 🎓 Student Digital Ambassador: Portfolio Project
 A Comprehensive Resource for Digital Literacy, Professionalism, and Cybersecurity.
 
@@ -15,6 +25,7 @@ A Comprehensive Resource for Digital Literacy, Professionalism, and Cybersecurit
 * [Module Breakdown](#-module-breakdown)
 * [Digital Literacy Quiz](#-digital-literacy-quiz)
 * [Final Reflections](#-final-reflections)
+* [Safety & Ethics](#️-safety--ethics)
 
 
 ---
@@ -46,7 +57,7 @@ As a Student Digital Ambassador, my mission is to bridge the gap between technic
 <summary><b>Module 2: The Foundational Portfolio</b></summary>
 
 
-      Objective: Establish a professional "Digital Headquarters."
+    Objective: Establish a professional "Digital Headquarters."
 
     Platforms: GitHub, LinkedIn, and Kaggle.
 
@@ -106,7 +117,33 @@ I have developed a diagnostic tool for my batchmates to assess their digital rea
 👉 **[Take the Digital Literacy Quiz here](https://forms.gle/kn3Wo16vrn78Bi6U7)
 
 ---
+### 📝 Final Reflections
+This project has shifted my role from a consumer of technology to a digital leader. By mastering these five modules, I have developed the ability to communicate complex technical concepts effectively while maintaining a high standard of digital ethics and security.
 
+
+---
+
+
+### 🛡️ Safety & Ethics
+[!IMPORTANT]
+<b>Digital Permanence:</b> Everything you post online is permanent. As an Ambassador, I advocate for the "Think Before You Click" philosophy to protect your digital footprint.
+
+<b>Reporting Fraud:</b> If you encounter cybercrime, report it immediately to cybercrime.gov.in or call the 1930 Helpline.
+
+---
+
+
+
+### 🛠️ References & Tools
+Design: Canva, Shields.io
+
+Version Control: GitHub
+
+Technical Practice: HackerRank
+
+Collaboration: Google Workspace
+
+---
 
 
 #### Key Goals:
@@ -120,11 +157,18 @@ I have developed a diagnostic tool for my batchmates to assess their digital rea
 ---
 
 
-### 🛡️ Safety & Ethics
-[!IMPORTANT]
-<b>Digital Permanence:</b> Everything you post online is permanent. As an Ambassador, I advocate for the "Think Before You Click" philosophy to protect your digital footprint.
 
-<b>Reporting Fraud:</b> If you encounter cybercrime, report it immediately to cybercrime.gov.in or call the 1930 Helpline.
+
 
 
 ---
+
+## ⚖️ License & Copyright
+
+Copyright (c) 2026 Rishabh Tripathy
+
+This project is licensed under the **MIT License**.  
+You are free to use, copy, and modify this resource for educational purposes, provided that attribution is given to the original author.
+
+> [!NOTE]
+> All educational content and infographics created for the Student Digital Ambassador program are for awareness purposes. Please credit the author if you share these resources with other batches.
