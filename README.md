@@ -5,24 +5,15 @@
 ### 🎓 Student Digital Ambassador: Portfolio Project
 A Comprehensive Resource for Digital Literacy, Professionalism, and Cybersecurity.
 
-### 🌟 Project Overview
-As a Student Digital Ambassador, my mission is to bridge the gap between technical proficiency and professional digital citizenship. This repository documents a five-part journey in building a secure, professional, and impactful digital presence.
 
 ### 📌 Quick Navigation
+[Overview](#-project-overview)
+* [Module Breakdown](#-module-breakdown)
+* [Digital Literacy Quiz](#-digital-literacy-quiz)
+* [Final Reflections](#-final-reflections)
 
-Overview
-
-Module Breakdown
-
-Digital Literacy Quiz
-
-Safety & Ethics
-
-Final Reflections
-
-References & Tools
-
-
+### 🌟 Project Overview
+As a Student Digital Ambassador, my mission is to bridge the gap between technical proficiency and professional digital citizenship. This repository documents a five-part journey in building a secure, professional, and impactful digital presence.
 
 ### 📂 Module Breakdown
 <details open>
@@ -93,6 +84,11 @@ Annotation: Features the National Cyber Crime Helpline: 1930.
 
 </details>
 
+### 📊 Digital Literacy Quiz
+I have developed a diagnostic tool for my batchmates to assess their digital readiness.
+
+👉 **[Take the Digital Literacy Quiz here](https://forms.gle/kn3Wo16vrn78Bi6U7)
+
 #### Key Goals:
 
 🧠 Educate: Simplify digital literacy for peers.
@@ -101,3 +97,8 @@ Annotation: Features the National Cyber Crime Helpline: 1930.
 
 🛡️ Defend: Raise awareness regarding prevalent Indian cyber threats like UPI fraud.
 
+### 🛡️ Safety & Ethics
+[!IMPORTANT]
+<b>Digital Permanence:</b> Everything you post online is permanent. As an Ambassador, I advocate for the "Think Before You Click" philosophy to protect your digital footprint.
+
+<b>Reporting Fraud:</b> If you encounter cybercrime, report it immediately to cybercrime.gov.in or call the 1930 Helpline.
