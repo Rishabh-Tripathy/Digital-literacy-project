@@ -126,27 +126,27 @@ This project has shifted my role from a consumer of technology to a digital lead
 
 ### 🛡️ Safety & Ethics
 [!IMPORTANT]
-<b>Digital Permanence:</b> Everything you post online is permanent. As an Ambassador, I advocate for the "Think Before You Click" philosophy to protect your digital footprint.
+  <b>Digital Permanence:</b> Everything you post online is permanent. As an Ambassador, I advocate for the "Think Before You Click" philosophy to protect your digital footprint.
 
-<b>Reporting Fraud:</b> If you encounter cybercrime, report it immediately to cybercrime.gov.in or call the 1930 Helpline.
+  <b>Reporting Fraud:</b> If you encounter cybercrime, report it immediately to cybercrime.gov.in or call the 1930 Helpline.
 
 ---
 
 
 
 ### 🛠️ References & Tools
-Design: [Canva](https://www.canva.com/), [Shields.io](https://shields.io/)
+* Design: [Canva](https://www.canva.com/), [Shields.io](https://shields.io/)
 
-Version Control: [GitHub](https://github.com/)
+* Version Control: [GitHub](https://github.com/)
 
-Technical Practice: [Leetcode](https://leetcode.com/)
+* Technical Practice: [Leetcode](https://leetcode.com/)
 
-Collaboration: [Google Workspace](https://docs.google.com/forms?authuser=3)
+* Collaboration: [Google Workspace](https://docs.google.com/forms?authuser=3)
 
 ---
 
 
-#### Key Goals:
+### Key Goals:
 
 🧠 Educate: Simplify digital literacy for peers.
 
