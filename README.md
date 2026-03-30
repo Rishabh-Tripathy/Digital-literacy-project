@@ -135,13 +135,13 @@ This project has shifted my role from a consumer of technology to a digital lead
 
 
 ### 🛠️ References & Tools
-Design: Canva, Shields.io
+Design: [Canva](https://www.canva.com/), [Shields.io](https://shields.io/)
 
-Version Control: GitHub
+Version Control: [GitHub](https://github.com/)
 
-Technical Practice: HackerRank
+Technical Practice: [Leetcode](https://leetcode.com/)
 
-Collaboration: Google Workspace
+Collaboration: [Google Workspace](https://docs.google.com/forms?authuser=3)
 
 ---
 
