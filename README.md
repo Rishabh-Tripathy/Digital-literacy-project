@@ -3,9 +3,9 @@
 ---
 
 # 🎓 Student Digital Ambassador Portfolio
-[![Status: Complete](https://img.shields.io/badge/Status-Complete-success?style=flat-square)](https://github.com/your-username/your-repo)
+[![Status: Complete](https://img.shields.io/badge/Status-Complete-success?style=flat-square)](https://github.com/Rishabh-Tripathy/Digital-literacy-project)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Digital Literacy](https://img.shields.io/badge/Digital--Literacy-Awareness-blue?style=flat-square)](https://your-quiz-link)
+[![Digital Literacy](https://img.shields.io/badge/Digital--Literacy-Awareness-blue?style=flat-square)](https://forms.gle/kn3Wo16vrn78Bi6U7)
 
 > **Empowering peers through Digital Literacy, Professionalism, and Security.**
 
