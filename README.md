@@ -15,6 +15,7 @@
 ### 🎓 Student Digital Ambassador: Portfolio Project
 A Comprehensive Resource for Digital Literacy, Professionalism, and Cybersecurity.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&link)](https://www.linkedin.com/in/rishabh-tripathy-a23979370/)
 ---
 
 
